@@ -40,8 +40,6 @@ Etape de réalisation des commandes NMAP :
 
 ## V - Changelog
 
-### V1 => new release
-
 ### V1 => version initiale
 
 
